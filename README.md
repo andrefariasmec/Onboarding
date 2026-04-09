@@ -8,12 +8,10 @@ tags:
   - onboarding
 data_criacao: "2026-04-08"
 data_modificacao: "2026-04-08"
+
 ---
 
-# Bem-vindo ao Contexto SEGAPE
-
 Esta pasta reúne todos os guias de desenvolvimento da equipe de dados da SEGAPE (MEC). O projeto principal é um data warehouse em BigQuery com mais de 1.000 modelos SQL gerenciados por dbt, orquestrados por Prefect.
-
 Se você está começando agora, siga a ordem de leitura abaixo. Se já conhece o projeto, use o índice como referência rápida.
 
 ---
